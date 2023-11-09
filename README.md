@@ -1,1 +1,1 @@
-# .github
+# IECC github repository
